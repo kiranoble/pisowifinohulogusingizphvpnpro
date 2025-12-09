@@ -5,6 +5,7 @@ Steps:
 1. Download IZPH VPN PRO
 2. Download Dnstt app
 3. Open dnstt app and import via clipboard mga servers sa baba.
+
 Server 1
     ```
 dnstt://AIXqsCMdJsiHx1IhAWicJoW/nCxNxMKqam26aU/WTm8pSS8mLM3GNxjbzVfGxrVftz6s6FzdRDC78Pw7O3N/gYyIwQajy9QztgTxYcby7dBF92AFzvjyNpV+solav9tHVNpMMzMlXGDJaZwyEas+/iu4ROMRpngaLXIpN79pxPAQiePwjnkkclVDtMf421JJo8aIZZPpxkVPS9+tGuEgZNwJ+z1a4vswtSh9fdBaXwqtJJUHRQ6t2haBS67l8knKePGAu9vUhf+0mF/n9RPdsKwdjnsjvE2FaXacA4wHdWVP4hZynnXjiQ0XXybbN6egw6IQJsYw2OqLNUKp+dlItjOMVdLx65gdBBBZVWrYyjQ=
