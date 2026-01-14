@@ -3,7 +3,7 @@ Pisowifi Nohulog ovpn over dnstt using IZPH VPN PRO
 
 Steps:
 1. Download IZPH VPN PRO
-2. Download Dnstt app https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/blob/main/DNSTT_v2.1.0x_.apk
+2. Download Dnstt app https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.1.8.apk
 3. Open dnstt app - click + symbol - config file - online
 4. paste this link
 ```
