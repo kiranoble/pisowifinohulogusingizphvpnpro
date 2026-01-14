@@ -7,7 +7,7 @@ Steps:
 3. Open dnstt app - click + symbol - config file - online
 4. paste this link
 ```
-https://pastebin.com/raw/tQim12vB
+https://pastebin.com/raw/wvxMHSxw
 ```
 
 6. Select any pisowifi server and start
